@@ -130,6 +130,13 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeQuangHieuVKU/LeQuangHieuVKU/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeQuangHieuVKU/LeQuangHieuVKU/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/LeQuangHieuVKU/LeQuangHieuVKU/output/breakout-contribution-graph.svg">
+</picture>
+
+
 ## Pac-Man
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeQuangHieuVKU/LeQuangHieuVKU/output/pacman-contribution-graph-dark.svg">
